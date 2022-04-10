@@ -1,6 +1,6 @@
 # Bulletproof
 
-An app that can replace EVM with more security, using smart contracts in solidity.
+An Dapp that can replace EVM with more security, using smart contracts in solidity.
 
 ### Tech Stack Used  
 * Solidity
